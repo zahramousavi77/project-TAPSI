@@ -1,4 +1,9 @@
 /* Reset */
+@font-face {
+  font-family: "dana";
+  src: url(../assets/fonts/dana-fanum-bold.woff2);
+}
+
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;

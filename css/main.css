@@ -1,8 +1,22 @@
 /* Reset */
 @font-face {
-  font-family: "dana";
+  font-family: "dana-bold";
   src: url(../assets/fonts/dana-fanum-bold.woff2);
+  
 }
+
+@font-face {
+  font-family: "dana-medium";
+  src: url(../assets/fonts/dana-fanum-medium.woff2);
+  
+}
+
+@font-face {
+  font-family: "dana-regular";
+  src: url(../assets/fonts/dana-fanum-regular.woff2);
+  
+}
+
 
 html {
     font-size: 62.5%;
@@ -88,3 +102,4 @@ table {
     --color-white: #fff;
 
 }
+
